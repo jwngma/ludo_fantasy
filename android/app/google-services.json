@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009700604258",
+    "project_id": "ludo-fantasy-3507d",
+    "storage_bucket": "ludo-fantasy-3507d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009700604258:android:19398d8b3986de56d0c43b",
+        "android_client_info": {
+          "package_name": "com.jwngma.ludofantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009700604258-9pfkhpm0sgbds075hh789vi8nqp8pu2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jwngma.ludofantasy",
+            "certificate_hash": "71c445d3e62f8ede424ad7025eb1ca474bbed162"
+          }
+        },
+        {
+          "client_id": "1009700604258-t7b2a8e3uvm1bqkdkia00vt4ksvuvmbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4r-nOzvsVldBaoc8TH3WaDYH7CfV_zIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009700604258-t7b2a8e3uvm1bqkdkia00vt4ksvuvmbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
